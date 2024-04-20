@@ -22,8 +22,22 @@ Se clona el repositorio
 git clone https://github.com/JordyBautista10/LLM-Class9
 ~~~
 
-Asegúrese de tener todos los módulos de la siguiente imagen para no tener problema con la librería Cromadb
+Con ayuda de la herramienta de Visual Studio tools, asegúrese de tener todos los módulos de la siguiente imagen para no tener problema con la librería Cromadb
 
 ![image](https://github.com/JordyBautista10/LLM-Class9/assets/123812969/de1c2211-1568-4847-ab76-a82c582360fb)
 
-Ahora si se pueden descargar las librerías que usa el proyecto, con el siguiente comando 
+Ahora si se pueden descargar las librerías que usa el proyecto, con el siguiente comando:
+
+~~~
+pip install -r requirements.tx
+~~~
+
+Ya por último, debe contar con una llave API de OpenIA, la cual deberá reemplazar en cada uno de los programas para que  funcionen correctamente
+
+
+### Como funciona
+
+El proyecto cuenta con tres programas, cada uno con un proposito diferente ya que:
+- SimpleQuestion: este programa es sencillo, pues se conecta al API de ChatGPT y le envia una unstruccion que esta dentro de una variable quemada en el codigo, si desea realiar otro tipo de preguntas,
+puede canbiar el valor de la variable.
+- SimpleRAG:
