@@ -1,11 +1,14 @@
 # Tarea LLM (Language Model Language)
 
-El sigueinte proyecto pretende desarrollar un codigo capaz de interactuarr de diferentes formas con el LLM mas famoso del momento. Realizarle preguntas, cargarle informacion adicional "contexto" 
-para que responda segun este nuevo conocimiento.
+El siguiente proyecto pretende desarrollar un código capaz de interactuar de diferentes formas con el LLM más famoso del momento. Realizarle preguntas, cargarle información adicional "contexto" 
+para que responda según este nuevo conocimiento.
 
-Pero antes de proseguir, que es un LLM ?  
-Se refiere a un Language Model Language, lo que quiere decir que es un sistema capaz de "entender" el lenguaje y reponder de forma coherente segun los datos que tiene, usualmente son usados
-para generar texto de forma automatica, corregirlo o responder agilizar procesos de analisis de este mismo.
+¿Pero antes de proseguir, que es un LLM?  
+Se refiere a un Language Model Language, lo que quiere decir que es un sistema capaz de "entender" el lenguaje y responder de forma coherente según los datos que tiene, usualmente son usados
+para generar texto de forma automática, corregirlo o responder, agilizar procesos de análisis de este mismo.
 
-### Prerequisitos
+### Prerrequisitos
 
+- [Python](https://www.python.org/downloads/)
+- [Pip]
+- [Visual Studio Installer](https://visualstudio.microsoft.com/es/downloads/)
