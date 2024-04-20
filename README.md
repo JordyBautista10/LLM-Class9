@@ -56,7 +56,8 @@ gracias a que ahora el modelo tiene el contexto, la respuesta siguiente es confo
 
 - PineConeRAG: La diferencia con respecto al anterior, es que ahora, podemos proporcionarle información directamente nosotros, con ayuda la de base de datos vectorial PineCone, esto se hace
 por medio de distintas funciones, que dividen el texto de un archivo de texto que tengamos en el disco del equipo y subirá estas partes a la base de datos, donde esta información será cargada al modelo
-con el fin de responder a la información que le suministramos nosotros. Este último programa es el que ofrece mayor flexibilidad, pues la información puede ser cualquier texto que queramos.
+con el fin de responder a la información que le suministramos nosotros. Este último programa es el que ofrece mayor flexibilidad, pues la información puede ser cualquier texto que queramos. Como
+ejemplo en este proyecto, se carga la información del txt llamado 'Conocimiento' el cual contiene el libro de Frankenstein, por lo que se le pueden hacer preguntas al respecto.
 
 ![image](https://github.com/JordyBautista10/LLM-Class9/assets/123812969/a24d0627-a514-4c10-baf3-00ab0c8b1315)
 
