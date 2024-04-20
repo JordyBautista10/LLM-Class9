@@ -9,6 +9,21 @@ para generar texto de forma automática, corregirlo o responder, agilizar proces
 
 ### Prerrequisitos
 
-- [Python](https://www.python.org/downloads/)
-- [Pip]
-- [Visual Studio Installer](https://visualstudio.microsoft.com/es/downloads/)
+- [Python](https://www.python.org/downloads/): Lenguaje de programación con el que se va a trabajar, se recomienda usar la última versión estable.
+- [Pip]: El gestor de dependencias de python, el cual debe ser de la última versión disponible para evitar conflictos.
+- [Visual Studio Installer](https://visualstudio.microsoft.com/es/downloads/): Este programa nos permitirá descargar algunas librerías de C++, necesarias para las dependencias del proyecto.
+
+
+### Empezando
+
+Se clona el repositorio
+
+~~~
+git clone https://github.com/JordyBautista10/LLM-Class9
+~~~
+
+Asegúrese de tener todos los módulos de la siguiente imagen para no tener problema con la librería Cromadb
+
+![image](https://github.com/JordyBautista10/LLM-Class9/assets/123812969/de1c2211-1568-4847-ab76-a82c582360fb)
+
+Ahora si se pueden descargar las librerías que usa el proyecto, con el siguiente comando 
